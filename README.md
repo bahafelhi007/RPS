@@ -1,2 +1,2 @@
 # RPS
-Rock Paper Scissors
+This is just a Rock Paper Scissor Game 
